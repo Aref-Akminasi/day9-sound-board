@@ -8,9 +8,7 @@ This is the sound board project from the course '50 projects in 50 days'
 
 Users should be able to:
 
-- Click on a picture.
-- View the enlarged version of the picture.
-- Read the text associated with the picture.
+- Play a sound effect.
 
 ### Screenshots
 
